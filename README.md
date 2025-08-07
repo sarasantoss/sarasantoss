@@ -1,6 +1,6 @@
 ## Olá, eu sou a Sara, estudante e programadora!🤗
 
-* Trabalho atualmente como assistente de T.I.👩‍💻
+* Tenho experiênciaassistente de T.I.👩‍💻
 * Estudo Ciências da Computação ✍
   
 <div style="display: inline_block"><br>
