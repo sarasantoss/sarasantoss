@@ -39,5 +39,5 @@ Estudante de **Ciência da Computação** e programadora apaixonada por tecnolog
 ---
 
 ### Objetivo
-Sou uma desenvolvedora de Software em busca de colocação no mercado de trabalho para aprender, evoluir e mostrar todo o meu potencial como profissional! Desde muito cedo busco me desenvolver de forma completa, tanto em hard skills quanto em soft skills e, como consequência disso, me tornei uma excelente comunicadora, flexível e adaptável. Essas características me permitem contribuir com excelência e ideias inovadoras para a empresa.
+Sou uma desenvolvedora de Software em busca de colocação no mercado de trabalho para aprender, evoluir e mostrar todo o meu potencial como profissional! Desde muito cedo busco me desenvolver de forma completa, tanto em hard skills quanto em soft skills e, como consequência disso, me tornei uma boa comunicadora, flexível e adaptável. Essas características me permitem contribuir com excelência e ideias inovadoras para a empresa.
 
